@@ -1,13 +1,18 @@
-# Limit Calculator
-Project pertama saya untuk persiapan TUB Berlin.
+# Limit Calculator - Numerical Method
+My first project for TUB Berlin preparation
 
-## Apa ini?
-Menghitung limit sqrt(x+4)-2 / x saat x mendekati 0
+**Problem:** Calculate lim (x->0) (sqrt(x+4)-2)/x
 
-## Hasil
-0.25
+**Method:** Numerical approximation
+**Result:** 0.25 = 1/4
 
-## Target
-S1 TUB Physical Engineering -> S2 TUM CSE -> Engineer di BMW
+**Built by:** SMP Class 2 student from Garahan
+**Goal:** S1 Physical Engineering TUB -> S2 CSE TUM
 
-Made in Garahan, 2026 - SMP Kelas 2
+## How to run
+python limit.py
+
+## What I learned
+- Limit concept
+- Python math module
+- GitHub for portfolio
